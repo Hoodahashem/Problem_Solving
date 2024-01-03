@@ -10,3 +10,8 @@ If the cuckoo bird chimes at initial_time, include those chimes in the count. If
 
 Example: "03:38", 19   should return "06:00".
 Explanation: It chimes once at "03:45", 4 times at "04:00", once each at "04:15", "04:30", "04:45", 5 times at "05:00", and once each at "05:15", "05:30", "05:45". At this point it has chimed 16 times, so the 19th chime occurs when it chimes 6 times at "06:00".
+
+
+# finally done with the problem of today if you have
+# a better answer please don' hesitate to get in touch with me
+# see you tomorrow
