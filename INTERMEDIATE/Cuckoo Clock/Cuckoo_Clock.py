@@ -33,4 +33,4 @@ def cuckoo_clock(initial_time, n):
         sec += 60
     return clock
 
-print(cuckoo_clock("08:17",200))
+print(cuckoo_clock("08:17",200)) # 05:45
